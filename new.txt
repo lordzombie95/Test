@@ -1,2 +1,2 @@
 This is a new file in the repository
-
+This is a change made to the new.txt file
